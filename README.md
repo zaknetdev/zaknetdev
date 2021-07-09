@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaknetdev
 - 👀 I’m interested in becoming part of a passionate creative community and creating the best projects together. 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, React Native, Python ...
-- 💞️ I’m looking to collaborate on interesting open-source projects to improve my skills
+- 💞️ I’m looking to collaborate on interesting open source projects to improve my skills
 - 📫 zaknetdev@gmail.com
 
 <!---
